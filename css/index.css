@@ -172,6 +172,8 @@ img {
 }
 /*================ NAVIGATION ===============*/
 #border {
+  margin: 0 auto;
+  width: 85%;
   border-bottom: 2px dashed #C0C0C0;
 }
 #border #nav {
